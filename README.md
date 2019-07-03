@@ -1,6 +1,6 @@
 # DrunkDriving
 
-Utilizes the PENNDOT Open Data crash data report (https://pennshare.maps.arcgis.com/apps/webappviewer/index.html?id=8fdbf046e36e41649bbfd9d7dd7c7e7e) to create a heatmap using Mapdeck to display all alcohol-related car crashes in any county in Pennsylvania in 2017.
+Utilizes the PENNDOT Open Data crash data report (https://pennshare.maps.arcgis.com/apps/webappviewer/index.html?id=8fdbf046e36e41649bbfd9d7dd7c7e7e) to create a heatmap using Mapdeck to display all alcohol-related car crashes in any county in Pennsylvania in the year of your choosing.
 
 ![PhillyDrunkDriving](https://raw.githubusercontent.com/lmccay4/DrunkDriving/master/drunk_driving_philadelphia_2017.jpeg)
 
